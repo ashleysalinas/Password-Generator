@@ -13,3 +13,8 @@ To use this app, you can follow <a href="https://ashleysalinas.github.io/Passwor
 ### Local Copy Installation
   Step 1. Clone the repo
   ``` git clone https://github.com/ashleysalinas/Password-Generator.git ```
+  
+  Step 2. CD into local copy folder 
+  ``` cd (name of folder, usually just the name of the project) ```
+  
+  Step 3. Open folder in VSCode, and open the html file in your default browser. Enjoy!
