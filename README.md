@@ -8,4 +8,8 @@ A redo of the project assigned for Week 3 - Javascript of the Trilogy/Southern M
 * Javascript
 
 ## Getting Started
-To use this app, you can follow <a href="https://ashleysalinas.github.io/Password-Generator/"> this </a>
+To use this app, you can follow <a href="https://ashleysalinas.github.io/Password-Generator/"> this </a> link or you can use the steps below to clone a local copy.
+
+### Local Copy Installation
+  Step 1. Clone the repo
+  ``` git clone https://github.com/ashleysalinas/Password-Generator.git ```
