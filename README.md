@@ -18,3 +18,12 @@ To use this app, you can follow <a href="https://ashleysalinas.github.io/Passwor
   ``` cd (name of folder, usually just the name of the project) ```
   
   Step 3. Open folder in VSCode, and open the html file in your default browser. Enjoy!
+  
+ ## Usage
+ Use this app to create unique, secure passwords for your logins!
+ 
+ ## License
+ Distributed under the MIT Licencse.
+ 
+ ## Acknowledgements
+  As stated above, the initial html/css files, which included the header, were provided by the team at Trilogy Education Services. Thank you all for     giving me my coding foundation.
