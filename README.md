@@ -7,3 +7,5 @@ A redo of the project assigned for Week 3 - Javascript of the Trilogy/Southern M
 * CSS
 * Javascript
 
+## Getting Started
+To use this app, you can follow <a href="https://ashleysalinas.github.io/Password-Generator/"> this </a>
