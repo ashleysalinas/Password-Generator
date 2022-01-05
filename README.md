@@ -1,4 +1,6 @@
 # Password Generator
+<i href="https://ezgif.com/
+https://im2.ezgif.com/tmp/ezgif-2-c3dd2c17b0.gif">
 ## About
 A redo of the project assigned for Week 3 - Javascript of the Trilogy/Southern Methodist University Web Development Bootcamp. Initial HTML/CSS files provided by instructors.
 
